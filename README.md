@@ -9,6 +9,9 @@
 
 >+ Firefox Version 26.0 +
 
+## How To Use ?
+
+See Detail code on Blog with Description, Click Here [Bootstrap Vertical ImageShowcase - Tutorial Drive](http://tutorialdrive.org/bootstrap-vertical-image-showcase/)
 
 ## Where to use ?
 

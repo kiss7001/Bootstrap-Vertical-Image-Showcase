@@ -13,6 +13,10 @@
 
 See Detail code on Blog with Description, Click Here [Bootstrap Vertical ImageShowcase - Tutorial Drive](http://tutorialdrive.org/bootstrap-vertical-image-showcase/)
 
+<h2>Demo</h2>
+<hr>
+<a href = "http://jsfiddle.net/tutorialdrive/02ejafuv/show/" target="_blank">Demo</a>
+
 ## Where to use ?
 
  1. E-commerce Product Listing
